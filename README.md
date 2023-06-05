@@ -1,0 +1,2 @@
+# JsonPlaceholder
+Demo API Exercise 
